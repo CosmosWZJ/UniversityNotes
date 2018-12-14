@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\jeremy wang\desktop\year2sem1\cz2002\lab5\2002lab5\main.cpp
+	<iostream>
+
+1541591158 source:c:\users\jeremy wang\desktop\year2sem1\cz2002\lab5\2002lab5\animal.cpp
+	<iostream>
+	<string>
+
